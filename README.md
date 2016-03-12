@@ -1,0 +1,2 @@
+# GKmini
+Geigercounter mini
